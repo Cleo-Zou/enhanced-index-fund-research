@@ -20,6 +20,9 @@ build/
 .DS_Store
 Thumbs.db
 
+# Excel 临时锁文件
+~$*.xlsx
+
 # Environment
 .env
 .venv/
